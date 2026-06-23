@@ -1,0 +1,17 @@
+{
+  "title": "Dispensador Eléctrico de Mesa",
+  "slug": "biovita-dispenser-mesa",
+  "description": "Dispensador eléctrico de mesa, frío-calor. Compatible con bidones de 20L. Bajo consumo, silencioso y con depósito de acero inoxidable.",
+  "category": "dispensadores",
+  "baseImage": "/uploads/products/dispenser-mesa.svg",
+  "featured": true,
+  "createdAt": "2026-03-10T12:00:00.000Z",
+  "variants": [
+    {
+      "sku": "BIO-DSP-MESA",
+      "format": "Frío/Calor — 220V",
+      "price": 38500,
+      "stock": 12
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "siteTitle": "Biovita — Agua Purificada",
+  "siteUrl": "https://www.biovita.cl",
+  "currency": "CLP",
+  "locale": "es-CL",
+  "flatDeliveryFee": 1500,
+  "freeAbove": 15000,
+  "deliveryZones": [
+    "8320",
+    "7500",
+    "7550",
+    "7630"
+  ],
+  "defaultSeoTitle": "Biovita — Agua Purificada",
+  "defaultSeoDescription": "Bidones, botellas y dispensadores de agua purificada. Despacho a Santiago y regiones.",
+  "defaultOgImage": "/uploads/og-default.svg",
+  "social": [
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/biovita"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://facebook.com/biovita"
+    }
+  ],
+  "contactEmail": "hola@biovita.cl",
+  "contactPhone": "+56 2 2555 0000"
+}

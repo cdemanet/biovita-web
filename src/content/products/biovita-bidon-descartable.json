@@ -1,0 +1,16 @@
+{
+  "title": "Bidón Descartable 20L",
+  "slug": "biovita-bidon-descartable",
+  "description": "Bidón de 20L no retornable. Pensado para flotas, eventos y obras que no pueden esperar el ciclo de retorno de los bidones recargables.",
+  "category": "agua",
+  "baseImage": "/uploads/products/bidon-descartable.svg",
+  "createdAt": "2026-05-12T12:00:00.000Z",
+  "variants": [
+    {
+      "sku": "BIO-20L-DESC",
+      "format": "20L descartable",
+      "price": 5400,
+      "stock": 0
+    }
+  ]
+}

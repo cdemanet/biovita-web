@@ -1,0 +1,22 @@
+{
+  "title": "Kit Saborizante — Limón / Pepino",
+  "slug": "biovita-kit-sabor",
+  "description": "Gotero saborizante sin azúcar, ideal para agregar al agua purificada. Pack de dos frascos: limón y pepino menta.",
+  "category": "accesorios",
+  "baseImage": "/uploads/products/kit-sabor.svg",
+  "createdAt": "2026-04-05T12:00:00.000Z",
+  "variants": [
+    {
+      "sku": "BIO-SABOR-LIM",
+      "format": "Limón — 30ml",
+      "price": 1900,
+      "stock": 40
+    },
+    {
+      "sku": "BIO-SABOR-PEP",
+      "format": "Pepino menta — 30ml",
+      "price": 1900,
+      "stock": 40
+    }
+  ]
+}

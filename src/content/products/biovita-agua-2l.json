@@ -1,0 +1,17 @@
+{
+  "title": "Agua Purificada 2L — Botella",
+  "slug": "biovita-agua-2l",
+  "description": "Botella de 2 litros de agua purificada, perfecta para el consumo diario en el hogar o la oficina.",
+  "category": "agua",
+  "baseImage": "/uploads/products/agua-2l.svg",
+  "featured": true,
+  "createdAt": "2026-02-01T12:00:00.000Z",
+  "variants": [
+    {
+      "sku": "BIO-2L",
+      "format": "2L botella",
+      "price": 950,
+      "stock": 120
+    }
+  ]
+}

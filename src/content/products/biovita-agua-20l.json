@@ -1,0 +1,23 @@
+{
+  "title": "Agua Purificada 20L — Bidón",
+  "slug": "biovita-agua-20l",
+  "description": "Bidón de 20 litros de agua purificada por ósmosis inversa, ideal para dispensadores de mesa y oficina. Retornable y recargable.",
+  "category": "agua",
+  "baseImage": "/uploads/products/agua-20l.svg",
+  "featured": true,
+  "createdAt": "2026-01-15T12:00:00.000Z",
+  "variants": [
+    {
+      "sku": "BIO-20L-RET",
+      "format": "20L bidón retornable",
+      "price": 2800,
+      "stock": 50
+    },
+    {
+      "sku": "BIO-20L-NVO",
+      "format": "20L bidón nuevo (sin retorno)",
+      "price": 6500,
+      "stock": 30
+    }
+  ]
+}

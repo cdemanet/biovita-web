@@ -1,0 +1,16 @@
+{
+  "title": "Agua Purificada 500ml — Pack x12",
+  "slug": "biovita-agua-500ml",
+  "description": "Pack de 12 botellas de 500ml de agua purificada, listas para repartir y consumir en cualquier momento.",
+  "category": "agua",
+  "baseImage": "/uploads/products/agua-500ml.svg",
+  "createdAt": "2026-02-20T12:00:00.000Z",
+  "variants": [
+    {
+      "sku": "BIO-500-PK12",
+      "format": "500ml x12 pack",
+      "price": 4200,
+      "stock": 80
+    }
+  ]
+}
